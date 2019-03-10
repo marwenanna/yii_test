@@ -1,3 +1,15 @@
+Форма авторизации и регистрации:
+
+# Setup
+If you've just downloaded the code, congratulations!
+To get it working, follow these steps:
+
+# Setup the Database
+- Create datebase:'authen_regiter' 
+- In console launch "php yii migarte"
+
+----------------------------------------------------------------------------------------------------------------------------
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
