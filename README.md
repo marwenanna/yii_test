@@ -10,11 +10,11 @@ To get it working, follow these steps:
 - cd common/config and in main-local.php <br>
     write your database :
     ////// 'dsn' => 'mysql:host=localhost;dbname=your data base', /////
-- after create your data base      
+- After create your data base      
 - In console launch "php yii migarte"
 - Launch in your console  <br>
    php yii serve --docroot="frontend/web/"
-- after write in your URL browser <br>
+- After write in URL browser <br>
     http://localhost:8080/
 
 
