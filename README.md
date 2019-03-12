@@ -5,8 +5,13 @@ If you've just downloaded the code, congratulations!
 To get it working, follow these steps:
 
 # Setup the Database
-- Create datebase:'authen_regiter' 
+- Launch in your console composer install 
+- Launch in your console php init ----> 0 -----> yes
+- cd common/config and in main-local.php <br>
+    ////// 'dsn' => 'mysql:host=localhost;dbname=your data base', /////
+- after create your data base      
 - In console launch "php yii migarte"
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 
