@@ -12,6 +12,9 @@ To get it working, follow these steps:
     ////// 'dsn' => 'mysql:host=localhost;dbname=your data base', /////
 - after create your data base      
 - In console launch "php yii migarte"
+- Launch in your console  <br>
+   php yii serve --docroot="frontend/web/"
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------
