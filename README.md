@@ -8,6 +8,7 @@ To get it working, follow these steps:
 - Launch in your console composer install 
 - Launch in your console php init ----> 0 -----> yes
 - cd common/config and in main-local.php <br>
+    write your database :
     ////// 'dsn' => 'mysql:host=localhost;dbname=your data base', /////
 - after create your data base      
 - In console launch "php yii migarte"
