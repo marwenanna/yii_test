@@ -14,6 +14,8 @@ To get it working, follow these steps:
 - In console launch "php yii migarte"
 - Launch in your console  <br>
    php yii serve --docroot="frontend/web/"
+- after write in your URL browser <br>
+    http://localhost:8080/
 
 
 
